@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tamercan 👋
 
-<!--
-**Tamercan1/Tamercan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** interested in software engineering and AI application development.
 
-Here are some ideas to get you started:
+I like building things and learning by actually implementing them—from frontend interfaces and backend APIs to databases and AI-powered features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about understanding how the systems I build work underneath, not just getting them to work.
+
+### What I'm working with
+
+* **Languages:** Python, JavaScript, TypeScript, C, Java
+* **Web:** React, Django, REST APIs
+* **AI:** AI APIs, LLM-powered applications
+* **Tools:** Git, GitHub, Docker
+
+### Featured Projects
+
+* 🚀 **[SpaceScout](https://github.com/Tamercan1/spacescout-ai-space-planner)** — AI-powered space exploration app using React, Django, NASA APIs, and LLMs.
+* 🤖 **[mAI Friend](https://github.com/Tamercan1/mai-friend)** — Adaptive AI companion built with Python and the Google GenAI SDK.
+* 📚 **[Ka-CSE Reviewer](https://github.com/Tamercan1/cse-personal-reviewer)** — Browser-based Civil Service Exam reviewer built around a real student use case.
+
+### Currently
+
+Learning more about **backend development, software engineering fundamentals, and AI application development** while building projects and preparing for future internships.
+
+---
+
+📫 **GitHub:** [@Tamercan1](https://github.com/Tamercan1)
+
+💼 **Linked In:** [Linked In](https://linkedin.com/in/datu-tamercan-wawa-7b6112399)
+
+📂 **Portfolio:** [Portfolio](https://tamercan.vercel.app)
+
+📧 **Email:** [Contact Me](mailto:wawatamercan@:gmail.com)
