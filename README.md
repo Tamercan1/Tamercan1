@@ -27,8 +27,8 @@ Learning more about **backend development, software engineering fundamentals, an
 
 📫 **GitHub:** [@Tamercan1](https://github.com/Tamercan1)
 
-💼 **Linked In:** [Linked In](https://linkedin.com/in/datu-tamercan-wawa-7b6112399)
-
 📂 **Portfolio:** [Portfolio](https://tamercan.vercel.app)
+
+💼 **Linked In:** [Linked In](https://linkedin.com/in/datu-tamercan-wawa-7b6112399)
 
 📧 **Email:** [Contact Me](mailto:wawatamercan@:gmail.com)
