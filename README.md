@@ -4,8 +4,6 @@ I'm a **Computer Science student** interested in software engineering and AI app
 
 I like building things and learning by actually implementing them—from frontend interfaces and backend APIs to databases and AI-powered features.
 
-I care about understanding how the systems I build work underneath, not just getting them to work.
-
 ### What I'm working with
 
 * **Languages:** Python, JavaScript, TypeScript, C, Java
