@@ -2,31 +2,30 @@
 
 I'm a **Computer Science student** interested in software engineering and AI application development.
 
-I like building things and learning by actually implementing them—from frontend interfaces and backend APIs to databases and AI-powered features.
+I enjoy building practical software and learning by implementing real-world projects—from frontend interfaces and backend APIs to databases and AI-powered features.
 
 ### What I'm working with
 
-* **Languages:** Python, JavaScript, TypeScript, C, Java
-* **Web:** React, Django, REST APIs
-* **AI:** AI APIs, LLM-powered applications
-* **Tools:** Git, GitHub, Docker
+- **Languages:** Python, JavaScript, TypeScript, C, Java
+- **Web:** React, Django, REST APIs
+- **AI:** LLM APIs, AI-powered applications
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Docker
 
 ### Featured Projects
 
-* 🚀 **[SpaceScout](https://github.com/Tamercan1/spacescout-ai-space-planner)** — AI-powered space exploration app using React, Django, NASA APIs, and LLMs.
-* 🤖 **[mAI Friend](https://github.com/Tamercan1/mai-friend)** — Adaptive AI companion built with Python and the Google GenAI SDK.
-* 📚 **[Ka-CSE Reviewer](https://github.com/Tamercan1/cse-personal-reviewer)** — Browser-based Civil Service Exam reviewer built around a real student use case.
+- 🚀 **[SpaceScout v2](https://github.com/Tamercan1/SpaceScout-v2)** — AI-powered space exploration platform integrating NASA APIs and LLMs, built with React and Django.
+- 📚 **[Ka-CSE Reviewer](https://github.com/Tamercan1/cse-personal-reviewer)** — Civil Service Exam reviewer that has reached **1,000+ users**, featuring practice quizzes, mock exams, and daily vocabulary.
+- 🤖 **[mAI Friend](https://github.com/Tamercan1/mai-friend)** — Adaptive AI companion built with Python and the Google GenAI SDK.
 
 ### Currently
 
-Learning more about **backend development, software engineering fundamentals, and AI application development** while building projects and preparing for future internships.
+Deepening my knowledge of **backend development, software engineering, and AI application development** while building projects and preparing for internships.
 
 ---
 
-📫 **GitHub:** [@Tamercan1](https://github.com/Tamercan1)
+📂 **Portfolio:** [tamercan.vercel.app](https://tamercan.vercel.app)
 
-📂 **Portfolio:** [Portfolio](https://tamercan.vercel.app)
+💼 **LinkedIn:** [Datu Tamercan Wawa](https://linkedin.com/in/datu-tamercan-wawa-7b6112399)
 
-💼 **Linked In:** [Linked In](https://linkedin.com/in/datu-tamercan-wawa-7b6112399)
-
-📧 **Email:** [Contact Me](mailto:wawatamercan@:gmail.com)
+📧 **Email:** [Contact Me](mailto:wawatamercan@gmail.com)
